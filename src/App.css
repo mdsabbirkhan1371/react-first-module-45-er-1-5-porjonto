@@ -32,7 +32,27 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.moon {
+  color: red;
+  background-color: rgb(160, 183, 175);
+  padding: 30px;
+  border-radius: 10px;
+  margin: 10px;
+
+
+}
+
+.sabbir {
+  color: red;
+  background-color: aquamarine;
+  padding: 30px;
+  border-radius: 10px;
+  margin: 10px;
+
 }
